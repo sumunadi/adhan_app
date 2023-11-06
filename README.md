@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is a simple UI App which calls the Adhan API to show prayer timings.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
