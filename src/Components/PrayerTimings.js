@@ -44,7 +44,7 @@ function PrayerTimings() {
   }, [data]);
 
   if (error) return <div>Error loading data.</div>;
-  if (!data) return <div>Loading...</div>;
+  if (!data) return <div>Namaz is Better Than Sleep!</div>;
 
  // Checking if multiDayTimings and prayers exist
  if (!data.multiDayTimings || !data.multiDayTimings.length) return <div>No prayer timings available.</div>;
